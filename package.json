@@ -1,0 +1,28 @@
+{
+  "name": "omdb-request",
+  "version": "1.0.0",
+  "description": "",
+  "main": "omdbRequest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "inquirer": "^3.3.0",
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.81.0",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobW219/liri-node-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RobW219/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/RobW219/liri-node-app#readme"
+}
